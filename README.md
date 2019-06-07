@@ -24,10 +24,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 </UL>
 <DIV>
 
-### Technical Requirements
-This course has the following software requirements:<br/>
-N/A
-
 ## Related Products
 * [IaaS Cloud Computing With OpenStack MasterClass - Part 2 [Video]](https://www.packtpub.com/in/virtualization-and-cloud/iaas-cloud-computing-openstack-masterclass-part-2-video)
 
